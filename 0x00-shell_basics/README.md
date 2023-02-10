@@ -8,3 +8,4 @@ First Directory
 Moved files
 Deleted betty
 Removed a directory
+Script that changes the working directory to the previous one
