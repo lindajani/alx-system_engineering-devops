@@ -6,3 +6,4 @@ Displays hidden files
 Displays files digits only
 First Directory
 Moved files
+Deleted betty
