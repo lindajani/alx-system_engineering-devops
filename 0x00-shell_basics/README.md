@@ -5,3 +5,4 @@ Displays current directory contets in a long format
 Displays hidden files
 Displays files digits only
 First Directory
+Moved files
