@@ -7,3 +7,4 @@ Displays files digits only
 First Directory
 Moved files
 Deleted betty
+Removed a directory
